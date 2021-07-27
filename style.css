@@ -1,0 +1,46 @@
+ 
+*{
+    font-family: 'Roboto Slab', serif;
+}
+body{
+    background-color: rgb(174, 222, 252);
+}
+    #parent{
+        width: 307px;
+    height: 334px;
+    box-shadow: 8px 7px grey;
+    border-radius: 17px;
+    background-repeat: no-repeat;
+    background-size: 318px 393px;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Ks6HLR92KuBAkKhxQverr_5l38TpOqiLDA&usqp=CAU");
+}
+    
+    #id2{
+        background: none;
+        border: none;
+        outline: none;
+    }
+    hr{
+        color:honeydew
+    }
+    ::placeholder{
+        color:black;
+        text-align: center;
+    }
+    .father{
+        margin-top: 70px;
+        display: flex;
+        justify-content: center;
+    }
+    h1{
+        text-align: center;
+        text-decoration: underline;
+    }
+    .detail:hover{
+      color:cyan
+    }
+    h1:hover{
+        color: lightgray;
+    }
+    
